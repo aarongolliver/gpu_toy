@@ -6,4 +6,5 @@ cd build
 cmake ..
 cmake --build .
 
-<exe path> $gpu_toy_root/examples/4d_explorer```
+<exe path> $gpu_toy_root/examples/4d_explorer
+```
